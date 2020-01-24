@@ -7,11 +7,13 @@
       "status": "Pinding",
       "color": "green",
       "price": "$1,200",
-      "name":"Red House Color",
+      "name": "Red House Color",
       "descrption": "Text recognition is the process of detecting text in images and video streams and recognizing the text contained therein. Once detected, the recognizer then determines the actual text in each block and segments it into lines and words. The Text API detects text in Latin based languages (French, German, English, etc.), in real-time, on device.",
-      "option1": "Details",
-      "option2": "Amenities",
-      "option3": "Rooms"
+      "options": [
+        "Details",
+        "Amenities",
+        "Rooms"
+      ]
     },
     {
       "id": 2,
@@ -20,11 +22,13 @@
       "status": "Closed",
       "color": "red",
       "price": "$1,200",
-      "name":"White House Color",
+      "name": "White House Color",
       "descrption": "Text recognition is the process of detecting text in images and video streams and recognizing the text contained therein. Once detected, the recognizer then determines the actual text in each block and segments it into lines and words. The Text API detects text in Latin based languages (French, German, English, etc.), in real-time, on device.",
-      "option1": "Details",
-      "option2": "Amenities",
-      "option3": "Rooms"
+      "options": [
+        "Details",
+        "Amenities",
+        "Rooms"
+      ]
     },
     {
       "id": 3,
@@ -33,11 +37,13 @@
       "status": "Wating",
       "color": "yellow",
       "price": "$1,200",
-      "name":"Red House Color",
+      "name": "Red House Color",
       "descrption": "Text recognition is the process of detecting text in images and video streams and recognizing the text contained therein. Once detected, the recognizer then determines the actual text in each block and segments it into lines and words. The Text API detects text in Latin based languages (French, German, English, etc.), in real-time, on device.",
-      "option1": "Details",
-      "option2": "Amenities",
-      "option3": "Rooms"
+      "options": [
+        "Details",
+        "Amenities",
+        "Rooms"
+      ]
     }
   ],
   "comments": [
