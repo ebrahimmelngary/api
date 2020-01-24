@@ -25,6 +25,19 @@
       "option1": "Details",
       "option2": "Amenities",
       "option3": "Rooms"
+    },
+    {
+      "id": 3,
+      "image": "https://media.gettyimages.com/photos/modern-interior-picture-id853258138?s=2048x2048",
+      "title": "Awsome House",
+      "status": "Wating",
+      "color": "yellow",
+      "price": "$1,200",
+      "name":"Red House Color",
+      "descrption": "Text recognition is the process of detecting text in images and video streams and recognizing the text contained therein. Once detected, the recognizer then determines the actual text in each block and segments it into lines and words. The Text API detects text in Latin based languages (French, German, English, etc.), in real-time, on device.",
+      "option1": "Details",
+      "option2": "Amenities",
+      "option3": "Rooms"
     }
   ],
   "comments": [
